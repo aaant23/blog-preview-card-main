@@ -23,7 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of finished challenge](./blog-preview-card-screenshot.png)
+![Screenshot of finished challenge]
+<img width="520" height="691" alt="image" src="https://github.com/user-attachments/assets/01c1eb2f-fe91-4dd5-a2a6-0807d8691962" />
+
 
 
 ### Links
