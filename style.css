@@ -25,7 +25,6 @@ body {
     border: 1px solid black;
     border-radius: 20px;
     box-shadow: 8px 8px 0px hsl(0, 0%, 7%);
-    margin: auto auto 20px;
 }
 
 .blog-img-container img {
